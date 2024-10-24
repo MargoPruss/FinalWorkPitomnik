@@ -1,0 +1,20 @@
+ 288  mkdir final_work
+ 289  cd final_work/
+ 290  cat > Pets.txt
+ 291  cat > Pack_animals.txt
+ 292  cat Pets.txt PackAnimals.txt > Animals.txt
+ 293  cat Animals.txt
+ 294  mv Animals.txt HumanFriends.txt
+ 295  ls
+ 296  mkdir PetsDirectory
+ 297  mv HumanFriends.txt PetsDirectory/
+ 298  cd PetsDirectory/
+ 299  ls
+ 300  sudo apt-get intstall mysql-server
+ 301  sudo apt-get install mysql-server
+ 302  mysql --version
+ 303  sudo apt-get install cowsay
+ 304  cowsay "Hello"
+ 305  sudo apt-get remove cowsay
+ 306  cowsay "Hello"
+ 307  history > history.txt
